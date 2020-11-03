@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  proxy: "https://safe-dusk-60661.herokuapp.com/"
+  "proxy": "https://safe-dusk-60661.herokuapp.com/"
 }
